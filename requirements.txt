@@ -1,2 +1,2 @@
-plotly matplotlib sklearn
+plotly, matplotlib, sklearn
 
